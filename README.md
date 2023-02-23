@@ -1,4 +1,4 @@
-# Fetch Coding Excersize
+# Fetch Coding Excercise
 
 
 This repository contains the necessary files requested by the company Fetch for application to their internship program.
